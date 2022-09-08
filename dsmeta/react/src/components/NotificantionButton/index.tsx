@@ -9,5 +9,5 @@ function NotificantionButton() {
     )
   }
   
-  export default NotificantionButton
+  export default NotificantionButton;
   
